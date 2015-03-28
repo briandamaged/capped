@@ -41,3 +41,16 @@ end
 
 ```
 
+Are mixins your thang?
+
+```ruby
+include Capped
+
+capped_while(3, ->{ true } ) do
+  puts "Nope"
+end
+
+capped_until(3, ->{ false } ) do
+  puts "Nope"
+end
+```
