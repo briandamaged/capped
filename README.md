@@ -1,4 +1,6 @@
 [![Gem Version](https://badge.fury.io/rb/capped.svg)](http://badge.fury.io/rb/capped)
+[![Build Status](https://travis-ci.org/briandamaged/capped.svg)](https://travis-ci.org/briandamaged/capped)
+
 # Capped #
 
 Cap those mofo infinite loops!
