@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/capped.svg)](http://badge.fury.io/rb/capped)
 # Capped #
 
 Cap those mofo infinite loops!
